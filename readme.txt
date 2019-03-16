@@ -1,0 +1,1 @@
+1. Navigate to the directory containing the code2. Run npm installa. If packages aren’t downloaded with install run:	i. Npm i –save express	ii. Npm i –save express-jwt	iii. Npm i –save googleapis	iv. Npm i –save json-to-html	v. Npm i –save json2html	vi. Npm i –save jwks-rsa3. To run locally, node server.js4. In google cloud, gcloud app deploy
